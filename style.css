@@ -38,17 +38,18 @@ div{
 
 .left h1{
 	font-family: 'Kodchasan', sans-serif;
-	font-size:5em;
+	font-size:4em;
 
 }
 .right h1{
 	font-family: 'Kodchasan', sans-serif;
-	font-size: 5em;
+	font-size: 4em;
 
 }
 .button{
-	border-radius:30px;
+	border-radius:86px;
 	color:#fff;
+	border:dotted;
 	text-decoration:none;
 	background-color:#fcad26;
 	padding:15px 25px;
